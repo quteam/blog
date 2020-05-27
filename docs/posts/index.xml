@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Quteam</title>
+    <link>https://blog.quteam.com/posts/</link>
+    <description>Recent content in Posts on Quteam</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 27 May 2020 08:19:39 +0000</lastBuildDate>
+    
+	<atom:link href="https://blog.quteam.com/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Test</title>
+      <link>https://blog.quteam.com/posts/test/</link>
+      <pubDate>Wed, 27 May 2020 08:19:39 +0000</pubDate>
+      
+      <guid>https://blog.quteam.com/posts/test/</guid>
+      <description>😂哈哈哈</description>
+    </item>
+    
+  </channel>
+</rss>
